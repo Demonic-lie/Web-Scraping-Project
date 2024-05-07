@@ -31,7 +31,7 @@ pip install requests
 pip install cloudscraper
 
 
-##Instructions on how to run script.
+## Instructions on how to run script.
 
 ### Prerequisites
 
@@ -67,7 +67,7 @@ Installation
 
 
 
-##Assumptions made:
+## Assumptions made:
 
 1. Uniform HTML Structure: It is assumed that all sub-sites of the SimplyHired website follow the same naming pattern and have a consistent HTML structure. Any variations in the structure might affect the scraping process and require adjustments to the code.
 
